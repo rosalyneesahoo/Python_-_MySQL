@@ -1012,5 +1012,5 @@ def main_menu():
             print("\nInvalid choice. Please try again.")
 
 
-if __name__ == "__main__":
-    main_menu()
+
+main_menu()
